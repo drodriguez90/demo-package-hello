@@ -1,1 +1,1 @@
-console.log("Aeromexico uja ja ja");
+module.exports = () => console.log("Aeromexico uja ja ja");
